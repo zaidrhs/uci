@@ -1,0 +1,55 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "solutions": "Solutions",
+    "sustainability": "Sustainability",
+    "contact": "Contact",
+    "login": "Login"
+  },
+  "home": {
+    "about": {
+      "title": "About UniChem",
+      "description": "UniChem is a leading chemical manufacturing company with over 30 years of experience in developing innovative solutions for various industries. Our commitment to excellence and sustainability has made us a trusted partner for businesses worldwide."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To be the global leader in sustainable chemical solutions, driving innovation and positive change in the industry while maintaining the highest standards of safety and environmental responsibility."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "To provide cutting-edge chemical solutions that empower our clients' success while promoting sustainable practices and contributing to a better world for future generations."
+    },
+    "values": {
+      "title": "Our Values",
+      "innovation": {
+        "title": "Innovation",
+        "description": "Continuously pushing boundaries to develop breakthrough solutions"
+      },
+      "sustainability": {
+        "title": "Sustainability",
+        "description": "Committed to environmental stewardship in all operations"
+      },
+      "integrity": {
+        "title": "Integrity",
+        "description": "Maintaining the highest standards of business ethics"
+      },
+      "excellence": {
+        "title": "Excellence",
+        "description": "Striving for superior quality in everything we do"
+      }
+    }
+  },
+  "products": {
+    "categories": {
+      "title": "Our Products",
+      "all": "All Products",
+      "industrial": "Industrial Chemicals",
+      "agricultural": "Agricultural Solutions",
+      "specialty": "Specialty Products"
+    },
+    "filters": {
+      "title": "Filter by Category"
+    }
+  }
+}
